@@ -1,0 +1,10 @@
+
+.plus{
+    display: flex;
+    margin-left: 740px;
+    position: absolute;
+}
+
+button{
+    cursor: pointer;
+}
